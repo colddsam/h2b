@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "keys": "greeting",
+      "questions": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Hello can we proceed?"
+      ],
+      "answers": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "keys":"purpose",
+      "questions":[
+        "How to Start?",
+        "What is the purpose of this model?",
+        "What can you do for me?",
+        "How you works?",
+        "What are the advankeyses of you?",
+        "who are you?",
+        "what are you?",
+        "what do you do?"
+      ],
+      "answers":[
+        "Hello Sir, I am a chat bot for Health Care system. I am made by team Dark Phoenix. I can do several thing. 1. Finding nearest hospital for you, 2. Providing you the numbers of doctors, 3. Providing you some suggestion about your disease"
+      ]
+    },
+    {
+      "keys": "goodbye",
+      "questions": ["Bye", "See you later", "Goodbye","tata"],
+      "answers": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "keys": "thanks",
+      "questions": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "answers": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "keys": "items",
+      "questions": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?",
+        "which items i can get from here?"
+      ],
+      "answers": [
+        "Currently we are not saling any products but you can get various stores details from here"
+      ]
+    },
+    {
+      "keys": "payments",
+      "questions": [
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?",
+        "are you take online payment",
+        "is there any upi system",
+        "the types of payment method",
+        "is there any cashless system",
+        "how you take money",
+        "money transaction",
+        "transaction support"
+      ],
+      "answers": [
+        "we only take online payment or upi system",
+        "we only accept UPI transaction"
+      ]
+    },
+    {
+      "keys": "delivery",
+      "questions": [
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
+      ],
+      "answers": [
+        "currently we are not supporting home delivery system. you can book your order from various stores."
+      ]
+    },
+    {
+      "keys": "hospital",
+      "questions": [
+        "can you please provide the list odf nearest hospital?",
+        "what are the nearest hospitals?",
+        "which are the nearest hospitals?",
+        "closest hospitals",
+        "name of closest hospitals",
+        "hospitals name",
+        "hospital near me"
+      ],
+      "answers": [
+        "Nearest hospitals of your location are: "
+      ]
+    },
+    {
+      "keys": "shops",
+      "questions": [
+        "can you please provide the list odf nearest medical shops?",
+        "what are the nearest medical shops?",
+        "which are the nearest medical shops?",
+        "closest medical shops",
+        "name of closest medical shops",
+        "medical shops name",
+        "medical shops near me"
+      ],
+      "answers": [
+        "Nearest medical shops of your location are: "
+      ]
+    },
+    {
+      "keys": "doctors",
+      "questions": [
+        "can you please provide the list odf nearest doctor chambers?",
+        "what are the nearest doctor chambers?",
+        "which are the nearest doctor chambers?",
+        "closest doctor chambers",
+        "name of closest doctor chambers",
+        "doctor chambers name"
+      ],
+      "answers": [
+        "Nearest doctor chambers of your location are: "
+      ]
+    }
+  ]
+}
